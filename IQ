@@ -1,0 +1,99 @@
+**Data types**
+1.	Name all data types in JavaScript.
+2.	Compare the reference types and primitive types.
+3.	Describe the ways of checking data types. What are the possible difficulties of determining the data type?
+4.	Describe the difference between Abstract Equality Comparison and Strict Equality Comparison.
+5.	Describe the process of the type coercion and rules of comparing the same and different data types.
+6.	Name the built-in and native types. Describe wrappers/boxing.
+7.	Name the data types that can and cannot contain values/ types of objects. Name the ways to detect them.
+8.	What is the practical use of the Symbol data type?
+
+Grammar
+1.	Describe the statements and expressions. What are the side effects of expressions?
+2.	Define Operator Precedence. Specify the usage of logical and binary operators.
+3.	Explain what Objects and Arrays destructuring is.
+4.	Specify loops, conditions, and the execution context.
+5.	Describe the error handling process in JavaScript.
+6.	How/when to use the Use strict directive? How does it affect the JavaScript execution?
+
+Scope and closure
+1.	Describe all variable declaration types and the difference between them.
+2.	Is there any way to determine whether the variable is declared in a specific scope?
+3.	What is scope? What scope types exist in JavaScript? What is the difference between the function and block scopes?
+4.	What are a hoisting and temporal dead zone?
+5.	Scope chain, lexical environment, and variable name resolution.
+6.	What is closure?
+7.	Describe the Memory Lifecycle in the context of the closure.
+
+Functions
+1.	Name all the approaches to declare and invoke functions in JavaScript and describe how they affect their execution.
+2.	What does it mean: the functions in JavaScript are first-class objects?
+3.	What is the difference between the execution context, scope, and static properties?
+4.	What does this keyword refer to in JavaScript?
+5.	Provide a description of the partial application of functions vs. currying.
+6.	Describe the practice of the borrowing method.
+
+OOP and FP in JavaScript
+1.	Describe the OOP principles and their implementation in JavaScript.
+2.	What is the difference between the classical and prototypal inheritance?
+3.	Name all the possible ways to create an object and object`s property in JavaScript.
+4.	Describe the attributes of the object and the object`s property.
+5.	Do access modifiers exist in JavaScript? Is it possible to simulate them, and how?
+6.	What are the pros and cons of functional programming vs. object-oriented programming?
+7.	What is functional programming?
+8.	What is a high-order function?
+9.	What is a pure function?
+10.	What is currying?
+11.	What does favor object composition over class inheritance mean?
+12.	Compare the imperative programming and declarative programming.
+13.	Describe SOLID and JavaScript. Provide an example of dependency injection and inversion of control in JavaScript. Are they related?
+
+Architectural concepts
+1.	What are two-way data binding and one-way data flow? How do they differ?
+2.	What are the pros and cons of monolithic and microservice architectures?
+
+Async JavaScript
+1.	What are the ways to handle the async code?
+2.	What is a callback hell, and how can you avoid it?
+3.	Describe how async/await works.
+4.	Describe the generators and iterators and their possible usage in async JavaScript.
+5.	Provide yield-delegation examples and generators concurrency.
+6.	Describe Web Workers, Shared Workers.
+7.	Describe the micro and macro tasks in the context of the event loop?
+
+Data structures
+1.	Name the most commonly used Array methods.
+2.	Describe how the reduce method works. What is the difference between slice and splice?
+3.	Describe Map, Set, WeakMap, and WeakSet.
+4.	What traditional data structures do you know? How do they correspond with data structures available in JavaScript?
+
+Node.js
+1.	What is the Node.js event loop?
+2.	What are the pros and cons of the Node.js® runtime environment? In what cases should Node.js be used and when should it not?
+3.	What are streams in Node.js?
+4.	Explain different types of streams in Node.js.
+5.	Describe multithreading in Node.js.
+6.	How to utilize multiple cores in a single Node.js application?
+7.	Explain the difference between programming in JS for Node.js and browsers.
+8.	Suggest an application structure/architecture for Node.js based REST API server.
+
+Testing
+1.	Name the most common test types and explain the difference between them.
+2.	Describe TDD/BDD.
+3.	What are the best practices of code testing in JavaScript?
+
+Literature
+Introductory without previous programming experience
+1.	1. JavaScript: The Good Parts (Douglas Crockford)
+2.	JavaScript: The Definitive Guide (David Flanagan)
+
+Introductory with previous programming experience
+1.	CSS: The Definitive Guide (Eric A. Meyer)
+2.	Handcrafted CSS: More Bulletproof Web Design (Dan Cederholm, Ethan Marcotte)
+3.	The Principles of Object-Oriented JavaScript (Nicholas C. Zakas)
+
+Advanced
+1.	Secrets of the JavaScript Ninja (John Resig)
+2.	High Performance JavaScript (Nicholas Zakas)
+3.	Standard ECMA-262 ECMAScript Language Specification
+
